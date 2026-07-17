@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Guru QR MI ISLAMIYAH",
+  "description": "Sistem Absensi Guru berbasis QR Code & GPS Geolocation untuk MI ISLAMIYAH Bumiayu Baureno Bojonegoro dengan Integrasi Google Apps Script & Google Spreadsheet.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
